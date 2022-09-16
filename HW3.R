@@ -1,3 +1,8 @@
+Kseniia Huseinova
+09/15/2022
+
+Suguru Iwashiro, Holli Tai, Munibul Islam
+ 
 library(data.table)
 library(tidyverse)
 library(DT)
